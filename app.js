@@ -2,7 +2,7 @@
     let x = document.getElementById("inputPassword1").value;
     let y= document.getElementById("inputPassword2").value;
      if (x === y) {
-      window.location.replace("index2.html");
+      window.open("index2.html",'_self');
     }
     else if(x!==y){
       

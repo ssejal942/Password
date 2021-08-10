@@ -1,4 +1,4 @@
-
+/*header section */
 .header {
     background-color: #33A0D9;
     width: 1528px;
@@ -107,12 +107,13 @@ border: 3px solid #000000;
 .form-text {
     color: red;
 }
+/*footer section*/
 .footer {
 position:absolute;
 height: 114px;
 width: 1528px;
 left: 0px;
-top: 90.5%;
+top: 88.5%;
 border-radius: 0px;
 background-color: #2180B3;
 }
